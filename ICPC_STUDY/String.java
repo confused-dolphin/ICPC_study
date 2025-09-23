@@ -8,6 +8,9 @@
 // 문자열 함수 
 // 1. charAt(idx)
 // -문자열에서 idx위치 있는 문자(char)를 하나 반환
+// -아스키 코드 이용 하기 : 'A'
+// ch - 'A' : ch에 들어있는 문자의 알파벳상 인덱스 (0부터 시작)
+// -> ch 가 A 이면 0이 나옴 
 
 // 2. substring(beginidx, endidx)
 // - beginidx ~ (endidx-1) 안의 값 출력 
